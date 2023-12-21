@@ -10,6 +10,9 @@ public class EmployeeDao {
 		System.out.println("sd");
 
 	}
-	
+	private void m2() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
