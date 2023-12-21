@@ -6,6 +6,10 @@ public class EmployeeDao {
 	private String employeeName;
 	private String employeePhNo;
 	private String hi;
+	private void m1() {
+		System.out.println("sd");
+
+	}
 	
 
 }
