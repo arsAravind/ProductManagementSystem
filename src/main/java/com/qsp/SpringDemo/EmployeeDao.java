@@ -1,5 +1,7 @@
 package com.qsp.SpringDemo;
 
+import org.springframework.web.client.HttpClientErrorException.Forbidden;
+
 public class EmployeeDao {
 	
 	private int employeeId;
@@ -13,6 +15,9 @@ public class EmployeeDao {
 	private void m2() {
 		// TODO Auto-generated method stub
 
+	}
+	public static void main(String[] args) {
+		System.out.println("hi");
 	}
 
 }
